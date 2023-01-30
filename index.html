@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+        <title>Dice Roller</title>
+        <link rel="stylesheet" href="./index.css" type="text/css">
+    </head>
+
+    <script src="./index.js"></script>
+
+    <body background="./images/background.png" onload="rollDice()">
+        <h1>Dice Roller</h1>
+        <br><br>
+
+        <div class="dice-gallery" style="text-align:center;">
+        <img id="die1" hspace = "20" src="./images/one.png">
+        <img id="die2" hspace = "20" src="./images/two.png">
+        <img id="die3" hspace = "20" src="./images/three.png">
+        <img id="die4" hspace = "20" src="./images/four.png">
+        <img id="die5" hspace = "20" src="./images/five.png">
+        </div>
+
+        <br><br><br>
+        <p><button onclick="rollDice()" autofocus>Roll the dice</button></p>
+
+        <br><br>
+        <p>Simply click the "Roll the dice" button or hit the enter key to roll all five dice at once.</p>
+
+    </body>
+</html>
