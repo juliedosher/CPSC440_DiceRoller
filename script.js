@@ -1,3 +1,4 @@
+// Rolls all 5 dice at once, replaces each die image and text field
 function rollDice() {
     for (let i = 1; i < 6; i++) {
         const die_num = "die" + i.toString();
