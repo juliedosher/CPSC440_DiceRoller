@@ -12,6 +12,10 @@ Big thanks to W3 Schools for many more helpful guides as well.
 
 Received free-use background image from Toptal:
 https://www.toptal.com/designers/subtlepatterns/
+
+Dice images made using Microsoft Office Suite shapes.
+
+All other content original.
          
          
 Build/Execution Instructions: No other software is required. Just the included files here (index.html, style.css, script.js, and the images folder containing images of the dice and background).
