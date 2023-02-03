@@ -1,6 +1,6 @@
 # CPSC440_DiceRoller
 
-Author: Julie Dosher, juliegdohser@lewisu.edu  
+Author: Julie Dosher, juliegdosher@lewisu.edu  
 Project: CPSC 440, Sprint 2 - Dice Roller  
 https://juliedosher-cpsc440-diceroller.azurewebsites.net  
 
