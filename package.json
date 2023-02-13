@@ -4,9 +4,7 @@
   },
   "name": "cpsc440_diceroller",
   "description": "Author: Julie Dosher, juliegdosher@lewisu.edu   Project: CPSC 440, Sprint 2 - Dice Roller   https://juliedosher-cpsc440-diceroller.azurewebsites.net",
-  "version": "1.0.0",
   "main": "app.js",
-  "devDependencies": {},
  
   "repository": {
     "type": "git",
