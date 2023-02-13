@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c0c320af-eb73-4bb7-8ada-d01a48d6f6ed/AppServices/subscriptions/c0c320af-eb73-4bb7-8ada-d01a48d6f6ed/resourceGroups/JulieDosher-CPSC440-DiceRoller-rg/providers/Microsoft.Web/sites/JulieDosher-CPSC440-DiceRoller",
+    "appService.deploySubpath": "."
+}
