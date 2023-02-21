@@ -1,8 +1,6 @@
 {
-  "dependencies": {
-    "express": "^4.18.2"
-  },
   "name": "cpsc440_diceroller",
+  "version": "1.0.0",
   "description": "Author: Julie Dosher, juliegdosher@lewisu.edu   Project: CPSC 440, Sprint 2 - Dice Roller   https://juliedosher-cpsc440-diceroller.azurewebsites.net",
   "main": "index.js",
  
@@ -12,11 +10,15 @@
   },
   "author": "Julie Dosher",
   "license": "ISC",
-  "scripts":{
+  "scripts": {
     "start": "node index.js"
-  },
+},
   "bugs": {
     "url": "https://github.com/juliedosher/CPSC440_DiceRoller/issues"
   },
-  "homepage": "https://github.com/juliedosher/CPSC440_DiceRoller#readme"
+  "homepage": "https://github.com/juliedosher/CPSC440_DiceRoller#readme",
+
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
