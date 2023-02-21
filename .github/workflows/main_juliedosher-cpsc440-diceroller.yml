@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'JulieDosher-CPSC440-DiceRoller'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1DB9BB17B35A4D5E89F03426890C0C91 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_824251BAAE9F41229E857FCE47DB9EEF }}
           package: .
